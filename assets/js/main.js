@@ -93,3 +93,4 @@ if(form){
     window.location.href = "http://t7q4.com/?utm_campaign=RuEoNAxI6g&v1=[v1]&v2=[v2]&v3=[v3]"; // change to your target page
   });
  
+})();
