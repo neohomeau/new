@@ -86,11 +86,11 @@ if(form){
   bd.style.display='flex';
   function closeGate(){ bd.style.display='none'; bd.remove(); }
   bd.querySelector('#age-yes').addEventListener('click', function(){
-    window.location.href = "http://t7q4.com/?utm_campaign=RuEoNAxI6g&v1=[v1]&v2=[v2]&v3=[v3]"; // change to your target page
+    window.location.href = "http://p8r9.com/?utm_campaign=RuEoNAxI6g&v1=[v1]&v2=[v2]&v3=[v3]"; // change to your target page
   });
                                                 
   bd.querySelector('#age-no').addEventListener('click', function(){
-    window.location.href = "http://t7q4.com/?utm_campaign=RuEoNAxI6g&v1=[v1]&v2=[v2]&v3=[v3]"; // change to your target page
+    window.location.href = "https://p8r9.com/?utm_campaign=RuEoNAxI6g&v1=[v1]&v2=[v2]&v3=[v3]"; // change to your target page
   });
  
 })();
